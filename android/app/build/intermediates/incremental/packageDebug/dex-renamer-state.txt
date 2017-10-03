@@ -1,0 +1,7 @@
+#Thu Jun 15 13:37:34 EDT 2017
+base.0=/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d68e31590ceba6ccb221233d0a2fd7a8c75918a2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27374dd36e013c517744d360d31de624a6b4d206/classes.dex
+base.1=/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27374dd36e013c517744d360d31de624a6b4d206
+file.0=/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d68e31590ceba6ccb221233d0a2fd7a8c75918a2/classes.dex

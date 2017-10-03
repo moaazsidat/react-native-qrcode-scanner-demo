@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/9eb7200b1324498f8500bf4125ab2fe7ca84458e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_141036cbdbaefb2e27cb7a1c99f6906aa902ced4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/3d74712529a06b553aa8884f5cc4176182c6dfe2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_4dd4229228e5f5a94a34f8556b158f39645968f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/8a6314e8a9dff7f72b6cf397e36e4e156445ac0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_0da70c4cce1733368c02620c1c071d2703fb490c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_32fc35368a9807a3bb2946f4e6618c723e2d186d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_4be84840c6832998844e41db48a3179f5526215d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c46a082b946ef10a4bdb8a7580d68af67dc05bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/a2ee761c72f06f65cb4d4595935a52684743f688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_418a60f44b25a1592bea92187eca6da8e66dc10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/8e98dcefa5aa495d6c6a7680e0edfee82ee0c9ad/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5ce8908f18b5aafb12e242894015f453a075e3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/b33a54f0bf9defd632591a79262beee4ce0d1abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_daee625cf62915b1fe4e541c0eac37b1a387e7d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/76edecc6b959bb38f96c792b12cdcd65529fda31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_795a4c835bc8c2435855fd8265ece1a20452a972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_5ae4a69e7d9b63e708254600b91bdc402633d68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/8e98dcefa5aa495d6c6a7680e0edfee82ee0c9ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_5c60a5c160d8ceb861b9e249c7f5e081df7013dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_2b7914b02e4f93a688058f0609c174d34d35c223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6def5e62b45df4bbba0ea8e16f5bc6a09453e8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e0cad4e8439f6d3447a6081800197ace2815fd57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/3a7f98d38f26bd122a80c375342dfe083cd3cd8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_915f9a3d12cd852cb51c9a3c48fb930bfcc45009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/b44988218c229c2a6769385fdef13d218760cae8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_c68436280618874d748f0b4b5af99955a8264aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_b57763f4dc56ecbd0c832dec2d5f908b536e693f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_f9ac42972c3371638040e002de85363c0f31fb18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27374dd36e013c517744d360d31de624a6b4d206/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a793c313af6b0f43950c3d89fa9c852b4279850">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_e8a55897d4139590e146b4b23e1b025dab55c40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/655295f2d27715bb7c473cc30e13f24e43783a7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_a1c8b5ff36e20157a09e8826ba1c35483e6c2076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_47bbd360708bae347b963e694db352693a34fd0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/a2ee761c72f06f65cb4d4595935a52684743f688/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_02efad315aa82dd0ce49fd8d2260603d0bcbc7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/2ce43883579f78bf63b660ba5bed1f3652b08ebd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_d8ee080735f122292c9190967611d54031a65cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_9c9f90b7bbe8594a3f2cefeb1dc7fca30c9353d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.android/build-cache/8e733c509437b16658bd65dad3f62dea94c88182/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/classes_e4b251680c6200859176ae9eb74d3431ed78c3d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c598dcd73ea49811bd72fa9100a00043cc020ae8">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d68e31590ceba6ccb221233d0a2fd7a8c75918a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moaazsidat/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_432390d69475d240648ec6081c426bce78e76387.jar" />
+    </item>
+
+</items>

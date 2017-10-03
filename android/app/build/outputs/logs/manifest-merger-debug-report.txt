@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.43.4] /Users/moaazsidat/.android/build-cache/a2ee761c72f06f65cb4d4595935a52684743f688/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-sdk
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:10:5-12:41
+MERGED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.43.4] /Users/moaazsidat/.android/build-cache/a2ee761c72f06f65cb4d4595935a52684743f688/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/moaazsidat/.android/build-cache/9eb7200b1324498f8500bf4125ab2fe7ca84458e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/moaazsidat/.android/build-cache/8e733c509437b16658bd65dad3f62dea94c88182/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/moaazsidat/.android/build-cache/8e98dcefa5aa495d6c6a7680e0edfee82ee0c9ad/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/moaazsidat/.android/build-cache/655295f2d27715bb7c473cc30e13f24e43783a7f/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/moaazsidat/.android/build-cache/3a7f98d38f26bd122a80c375342dfe083cd3cd8a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/moaazsidat/.android/build-cache/b33a54f0bf9defd632591a79262beee4ce0d1abd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/moaazsidat/.android/build-cache/8a6314e8a9dff7f72b6cf397e36e4e156445ac0a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/moaazsidat/.android/build-cache/3d74712529a06b553aa8884f5cc4176182c6dfe2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/moaazsidat/.android/build-cache/2ce43883579f78bf63b660ba5bed1f3652b08ebd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/moaazsidat/.android/build-cache/b44988218c229c2a6769385fdef13d218760cae8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/moaazsidat/.android/build-cache/76edecc6b959bb38f96c792b12cdcd65529fda31/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:14:5-31:19
+MERGED from [com.facebook.react:react-native:0.43.4] /Users/moaazsidat/.android/build-cache/a2ee761c72f06f65cb4d4595935a52684743f688/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/moaazsidat/.android/build-cache/9eb7200b1324498f8500bf4125ab2fe7ca84458e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/moaazsidat/.android/build-cache/8e98dcefa5aa495d6c6a7680e0edfee82ee0c9ad/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/moaazsidat/.android/build-cache/76edecc6b959bb38f96c792b12cdcd65529fda31/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/moaazsidat/.android/build-cache/583f51724cffe58077c0fffa7bd685c91f20ef94/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:17:7-39
+	android:allowBackup
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:16:7-33
+	android:icon
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:18:7-41
+	android:theme
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.qrcodetest.MainActivity
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-permission#android.permission.CAMERA
+ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [qrcodeTest:react-native-camera:unspecified] /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:17:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/moaazsidat/Development/ReactProjects/qrcodeTest/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
