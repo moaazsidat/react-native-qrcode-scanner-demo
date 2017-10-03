@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTShadowText.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

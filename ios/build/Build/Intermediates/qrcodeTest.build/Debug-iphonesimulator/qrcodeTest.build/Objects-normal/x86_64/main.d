@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/qrcodeTest/main.m \
-  /Users/moaazsidat/Development/ReactProjects/qrcodeTest/ios/qrcodeTest/AppDelegate.h
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/qrcodeTest/main.m \
+  /Users/moaazsidat/development/ReactProjects/qrcodeTest/ios/qrcodeTest/AppDelegate.h

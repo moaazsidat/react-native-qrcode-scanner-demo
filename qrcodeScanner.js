@@ -1,6 +1,8 @@
 'use strict';
 
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
 import {
   StyleSheet,
   Dimensions,
@@ -39,6 +41,7 @@ export default class QRCodeScanner extends Component {
     reactivate: false,
     reactivateTimeout: 0,
     fadeIn: true,
+    showMarker: false,
   }
 
   constructor(props) {
@@ -56,23 +59,23 @@ export default class QRCodeScanner extends Component {
       Animated.sequence([
         Animated.delay(1000),
         Animated.timing(
-         this.state.fadeInOpacity,
-         {
-           toValue: 1,
-           easing: Easing.inOut(Easing.quad),
-         },
+          this.state.fadeInOpacity,
+          {
+            toValue: 1,
+            easing: Easing.inOut(Easing.quad),
+          },
         )
       ]).start();
     }
-   }
+  }
 
   _setScanning(value) {
     this.setState({ scanning: value });
   }
 
   _handleBarCodeRead(e) {
-    Vibration.vibrate();
     if (!this.state.scanning) {
+      Vibration.vibrate();
       this._setScanning(true);
       this.props.onRead(e)
       if (this.props.reactivate) {
@@ -96,12 +99,18 @@ export default class QRCodeScanner extends Component {
   }
 
   _renderCameraMarker() {
+    if (this.props.showMarker) {
+      if (this.props.customMarker) {
+        return this.props.customMarker;
+      } else {
+        return (
+          <View style={styles.rectangleContainer}>
+            <View style={styles.rectangle} />
+          </View>
+        );
+      }
+    }
     return null;
-    return (
-      <View style={styles.rectangleContainer}>
-        <View style={styles.rectangle}/>
-      </View>
-    )
   }
 
   _renderCamera() {
@@ -111,7 +120,7 @@ export default class QRCodeScanner extends Component {
           style={{
             opacity: this.state.fadeInOpacity,
             backgroundColor: 'transparent'
-        }}>
+          }}>
           <Camera style={[styles.camera, this.props.cameraStyle]} onBarCodeRead={this._handleBarCodeRead.bind(this)}>
             {this._renderCameraMarker()}
           </Camera>
@@ -119,7 +128,7 @@ export default class QRCodeScanner extends Component {
       )
     }
     return (
-      <Camera style={styles.camera} onBarCodeRead={this._handleBarCodeRead.bind(this)}>
+      <Camera style={[styles.camera, this.props.cameraStyle]} onBarCodeRead={this._handleBarCodeRead.bind(this)}>
         {this._renderCameraMarker()}
       </Camera>
     )
@@ -128,7 +137,7 @@ export default class QRCodeScanner extends Component {
 
   render() {
     return (
-      <View style={styles.mainContainer}>
+      <View style={[styles.mainContainer, this.props.containerStyle]}>
         <View style={[styles.infoView, this.props.topViewStyle]}>
           {this._renderTopContent()}
         </View>

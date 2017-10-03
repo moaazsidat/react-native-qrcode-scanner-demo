@@ -15,7 +15,8 @@ import {
   Linking,
 } from 'react-native';
 
-import QRCodeScanner from 'react-native-qrcode-scanner';
+// import QRCodeScanner from 'react-native-qrcode-scanner';
+import QRCodeScanner from './qrcodeScanner';
 
 class ScanScreen extends Component {
   onSuccess(e) {
@@ -40,6 +41,9 @@ class ScanScreen extends Component {
                 <Text style={styles.buttonText}>OK. Got it!</Text>
               </TouchableOpacity>
             ),
+            containerStyle: {
+              marginTop: 64
+            },
           },
         }}
         style={{ flex: 1 }}
@@ -55,17 +59,14 @@ const styles = StyleSheet.create({
     padding: 32,
     color: '#777',
   },
-
   textBold: {
     fontWeight: '500',
     color: '#000',
   },
-
   buttonText: {
     fontSize: 21,
     color: 'rgb(0,122,255)',
   },
-
   buttonTouchable: {
     padding: 16,
   },
