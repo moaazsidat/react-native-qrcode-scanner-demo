@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/moaaz/development/personal/react-native-qrcode-scanner-demo/node_modules/react-native/React/Base/RCTUtils.h
